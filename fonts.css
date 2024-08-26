@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'Chronicle Display';
+    font-style: normal;
+    font-weight: 375;
+    font-size: 88px;
+    line-height: 100px;
+	src: local('Cromicle-Display'),
+		url('fonts/Chronicle-Display/Chronicle_Display_Semibold.otf') format('otf'),
+}
+
+@font-face {
+    font-family: 'Chronicle Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+	src: local('Cromicle-Display'),
+		url('fonts/Chronicle-Display/Chronicle_Display_Bold.otf') format('otf'),
+}
+
+@font-face {
+    font-family: 'Chronicle Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+	src: local('Cromicle-Display'),
+		url('fonts/Chronicle-Display/Chronicle_Display_Bold.otf') format('otf'),
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 22px;
+	src: local('Gilroy'),
+		url('fonts/Gilroy/Gilroy-ExtraBold.woff') format('woff'),
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 22px;
+	src: local('Gilroy'),
+		url('fonts/Gilroy/Gilroy-ExtraBold.woff') format('woff'),
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+	src: local('Gilroy'),
+		url('fonts/Gilroy/Gilroy-Bold.woff') format('woff'),
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+	src: local('Gilroy'),
+		url('fonts/Gilroy/Gilroy-Medium.woff') format('woff'),
+}

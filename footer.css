@@ -1,0 +1,35 @@
+
+.footer {
+    display: flex;
+}
+
+.footer__abou-the-company {
+    margin-right: 539.94px;
+}
+
+.footer__abou-the-company-wish{
+    width: 303px;
+    margin-bottom: 122px;
+    margin-top: 24px;
+}
+
+.footer__abou-the-company-info {
+    opacity: 0.5;
+}
+
+.footer__more-on-the-blog{
+    margin-right: 212px;
+}
+
+.footer__heading {
+    font-size: 24px;
+    color: #FBD784;
+    margin-bottom: 24px;
+}
+
+.footer__navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    line-height: 1.5;
+}
